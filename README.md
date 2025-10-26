@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Julienv28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julienv28&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Julienv28/Julienv28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
